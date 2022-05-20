@@ -1,0 +1,1 @@
+This txt file was added just to check or ensure that my git gui is working properly.
